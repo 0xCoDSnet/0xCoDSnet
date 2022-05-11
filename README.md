@@ -1,7 +1,6 @@
 ## Hi there 👋
 ### Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 ### 📚 About me:
- - I study at the university, and how cool it is!
  - I program on Python, C# and a little bit in C++
  - Beginner in Information Security
  - I will devote my free time Computer Science and Assembler

@@ -5,7 +5,7 @@
  - Programming in Python, C#
  - Beginner in Information Security
  - Free time studying Computer Science and Assembler
- - Sometimes I hang on CodeWars! - > [![codewars](https://www.codewars.com/users/CoDSnet/badges/small)](https://www.codewars.com/users/CoDSnet)
+ - Sometimes I hang on CodeWars! ---> [![codewars](https://www.codewars.com/users/CoDSnet/badges/micro)](https://www.codewars.com/users/CoDSnet)
 
 
 

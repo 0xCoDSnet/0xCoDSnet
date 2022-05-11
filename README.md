@@ -4,7 +4,7 @@
  - I study at the university, and how cool it is!
  - Programming in Python, C#
  - Beginner in Information Security
- - Free time studying Computer Science and Assembler
+ - I will devote my free time Computer Science and Assembler
  - Sometimes I hang on CodeWars! ---> [![codewars](https://www.codewars.com/users/CoDSnet/badges/micro)](https://www.codewars.com/users/CoDSnet)
 
 

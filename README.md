@@ -4,4 +4,4 @@
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoDSnet)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/CoDSnet)
+[![codewars](https://www.codewars.com/users/CoDSnet/badges/large)](https://www.codewars.com/users/CoDSnet)

@@ -1,10 +1,9 @@
 ## Hi there 👋
 ### Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 ### 📚 About me:
- - I program on Python, C#, C++, C
- - Beginner in Information Security
- - I will devote my free time Computer Science, Assembly language (NASM), ML
- - Sometimes I hang on CodeWars! ---> [![codewars](https://www.codewars.com/users/0xCoDSnet/badges/micro)](https://www.codewars.com/users/0xCoDSnet)
+ - I program in Python, C#, C++, and C
+ - I am a beginner in Information Security
+ - I will be devoting my free time to Computer Science, Assembly language (NASM), and Machine Learning
+ - Sometimes I hang out on CodeWars! Check out my badges below:
 
-
-
+[![codewars](https://www.codewars.com/users/0xCoDSnet/badges/micro)](https://www.codewars.com/users/0xCoDSnet)

@@ -24,7 +24,7 @@ My interests include building full-stack web applications, managing and securing
 
 * Private web applications (Node.js + Vue 3 + Tailwind CSS)
 * NASM-driven interoperability experiments
-* Java mod development (private) for various platforms
+* Java mod development
 
 **Learning Goals**
 

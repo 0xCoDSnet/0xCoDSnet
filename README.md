@@ -2,7 +2,7 @@
 
 # 0xCoDSnet
 
-**Software Developer** · Reverse Engineering · Low-Level · Modding
+**DevOps** · Software Developer · Reverse Engineering · Low-Level · Modding
 
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/0xCoDSnet)
 [![freedesktop](https://img.shields.io/badge/freedesktop.org-3B80AE?style=flat&logo=freedesktop.org&logoColor=white)](https://gitlab.freedesktop.org/0xCoDSnet)
@@ -27,6 +27,20 @@ Full USB protocol RE from the Windows UMDF driver, custom NCC matching engine.
 First open-source driver for this sensor — found in GPD Win 4, AVITA, Gateway, CHUWI and other devices.
 
 `C` `USB Protocol RE` `Ghidra` `Wireshark` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center">🛡️</td>
+<td>
+
+**[Sentinel — self-healing UI-testing agent](https://github.com/AlexGromer/sentinel)**
+
+Autonomous agent that explores a web app, freezes a deterministic test plan, and repairs broken
+locators on DOM drift. Polyglot: Go spine · Python LangGraph brain · TypeScript Playwright executor.
+Ongoing contributor — CI/CD, supply-chain security & build reliability.
+
+`GitHub Actions` `CI/CD` `Supply-Chain Security` `Dependabot`
 
 </td>
 </tr>
@@ -123,6 +137,7 @@ First open-source driver for this sensor — found in GPD Win 4, AVITA, Gateway,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
 </tr>

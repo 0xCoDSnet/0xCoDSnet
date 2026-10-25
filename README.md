@@ -134,23 +134,19 @@ Ongoing contributor — CI/CD, supply-chain security & build reliability.
 <td align="center" width="140"><b>Languages</b></td>
 <td>
 
-![NASM](https://img.shields.io/badge/NASM-1C1C1C?style=flat-square&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,go,ts,rust" alt="C, C++, C#, Java, Python, Go, TypeScript, Rust" />
 
 </td>
 </tr>
 <tr>
-<td align="center"><b>Reverse<br>Engineering</b></td>
+<td align="center"><b>Security<br>&amp; RE</b></td>
 <td>
 
-![Ghidra](https://img.shields.io/badge/Ghidra-BF0D3E?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-BF0D3E?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![NASM](https://img.shields.io/badge/x86_Assembly_%28NASM%29-1C1C1C?style=for-the-badge&logoColor=white)
 
 </td>
 </tr>
@@ -158,10 +154,7 @@ Ongoing contributor — CI/CD, supply-chain security & build reliability.
 <td align="center"><b>DevOps</b></td>
 <td>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,bash,git,docker,nginx,githubactions" alt="Linux, Bash, Git, Docker, Nginx, GitHub Actions" />
 
 </td>
 </tr>
@@ -169,9 +162,15 @@ Ongoing contributor — CI/CD, supply-chain security & build reliability.
 <td align="center"><b>Web</b></td>
 <td>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,vue,tailwind" alt="Node.js, Vue.js, Tailwind CSS" />
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>GameDev</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=godot" alt="Godot" />
 
 </td>
 </tr>
@@ -179,9 +178,7 @@ Ongoing contributor — CI/CD, supply-chain security & build reliability.
 <td align="center"><b>ML</b></td>
 <td>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" alt="TensorFlow, scikit-learn, OpenCV" />
 
 </td>
 </tr>

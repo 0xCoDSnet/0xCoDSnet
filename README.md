@@ -2,7 +2,7 @@
 
 # 0xCoDSnet
 
-**DevOps** · Software Developer · Reverse Engineering · Low-Level · Modding
+**DevSecOps** · Security Research & RE · Software Developer · Modding
 
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/0xCoDSnet)
 [![freedesktop](https://img.shields.io/badge/freedesktop.org-3B80AE?style=flat&logo=freedesktop.org&logoColor=white)](https://gitlab.freedesktop.org/0xCoDSnet)
@@ -10,6 +10,30 @@
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com/organization/shadscure)
 
 </div>
+
+---
+
+### Security Research
+
+<table>
+<tr>
+<td width="80" align="center">🔐</td>
+<td>
+
+**Vulnerability Disclosures**
+
+Independent vulnerability research with coordinated disclosure to maintainers. Each report comes with a working PoC and a proposed fix.
+
+| Advisory | Package | Issue | Severity |
+|---|---|---|---|
+| [GHSA-4gxg-m5jx-9j57](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-4gxg-m5jx-9j57) | `@modelcontextprotocol/server-filesystem` | Case-variant path bypasses the symlink check on case-insensitive file systems; regression, fixed in 2.0.1 | Medium |
+| [GHSA-3jqg-r5pp-rmp2](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-3jqg-r5pp-rmp2) | `mcp-server-fetch` | robots.txt enforcement bypassed through HTTP redirects; fixed in 2026.10.24 | Low |
+
+`Python` `TypeScript` `Path Validation` `Coordinated Disclosure`
+
+</td>
+</tr>
+</table>
 
 ---
 
